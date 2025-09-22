@@ -125,7 +125,7 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>You can reach me at <strong>email@example.com</strong> or follow me on social media.</p>
+    <p>You can reach me at <strong>danialthanga.durai@gmail.com</strong> or follow me on social media.</p>
   </section>
 
   <footer>
