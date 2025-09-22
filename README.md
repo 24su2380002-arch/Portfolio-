@@ -111,12 +111,12 @@
     <div class="projects">
       <div class="project">
         <h3>Project One</h3>
-        <p>A simple landing page built with HTML and CSS.</p>
+        <p>A simple login page built with HTML.</p>
         <a href="#" class="button">View Project</a>
       </div>
       <div class="project">
         <h3>Project Two</h3>
-        <p>Responsive portfolio website using Flexbox and Grid.</p>
+        <p>A simple register page built with HTML.</p>
         <a href="#" class="button">View Project</a>
       </div>
       <!-- Add more projects as needed -->
